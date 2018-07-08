@@ -1,0 +1,12 @@
+Just some notes, i've made during course.
+
+Installing Dependencies:
+npm install express body-parser mongoose concurrently
+
+-D : devDependencie
+
+nodemon - reload and watch backend
+
+
+scripts:
+--prefix folder <-- will execute command in folder
