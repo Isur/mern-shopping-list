@@ -33,7 +33,7 @@ class AppNavbar extends Component{
                         <Nav className="ml-auto" navbar>
                             <NavItem>
                                 <NavLink href="https://github.com/isur/">
-                                    My GitHub
+                                    GitHub
                                 </NavLink>
                             </NavItem>
                         </Nav>
